@@ -5,10 +5,10 @@
 O projeto consiste em um sistema em modo console (CLI) desenvolvido em linguagem C para o cadastro, consulta e controle de dados acadêmicos de alunos.
 
 ## 2. Requisitos Funcionais (RF)
-- **RF01:** Cadastrar novos alunos com ID, Nome, Idade e Nota.
-- **RF02:** Listar todos os alunos cadastrados.
-- **RF03:** Buscar aluno por ID.
-- **RF04:** Impedir o cadastro de alunos além do limite de capacidade.
+- Cadastrar novos alunos com ID, Nome, Idade e Nota.
+- Listar todos os alunos cadastrados.
+- Buscar aluno por ID.
+- Impedir o cadastro de alunos além do limite de capacidade.
 
 ## 3. Casos de Uso
 1. **Cadastrar Aluno:** O usuário informa os dados. O sistema valida se há espaço no vetor e salva os dados.
